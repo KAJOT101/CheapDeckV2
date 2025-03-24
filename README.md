@@ -13,6 +13,7 @@ Cheap Deck to kompaktowe urządzenie pozwalające na szybkie przypisywanie i wyk
 
 ## 📟PCB
 Płyta PCB została zaprojektowana z myślą o prostocie montażu. Matryca klawiszy 4x4 podłączona jest do RP2040-Zero poprzez GPIO. Obsługa ekranu OLED odbywa się przez magistralę I2C. Układ jest zasilany przez złącze USB-C, które służy również do programowania mikrokontrolera.
+
 <img src="img/sm_black_top.png" width="auto" height="150"> <img src="img/sm_black_bottom.png" width="auto" height="150">
 
 ## 🖥️Oprogramowanie
